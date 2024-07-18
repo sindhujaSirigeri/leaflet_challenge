@@ -14,6 +14,9 @@ The United States Geological Survey (USGS) provides earthquake data in GeoJSON f
 -   Adding popups that display additional information about each earthquake when clicked.
 -   Creating a legend to provide context for earthquake depths.
 
+## Map
+![image](https://github.com/user-attachments/assets/e6a52a26-13ee-41b5-9356-d25fce60c499)
+
 ## Skills Demonstrated
 
 -   **JavaScript**: Used for fetching data from APIs, manipulating GeoJSON data, and integrating with Leaflet and D3.js libraries.
